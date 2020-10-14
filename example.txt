@@ -1,0 +1,187 @@
+Hand Name       Points
+high card          0
+one pair           1
+two pair           3
+three of a kind    6
+straight          12
+flush              5
+full house        10
+four of a kind    16
+straight flush    30
+royal flush       30
+
+ --  --  --  --  --   0
+ 3S  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+  0   0   0   0   0   0 Total
+
+ --  --  --  8H  --   0
+ 3S  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+  0   0   0   0   0   0 Total
+
+ --  --  --  8H  --   0
+ 3S  3C  --  --  --   1
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+  0   0   0   0   0   1 Total
+
+ --  --  --  8H  --   0
+ 3S  3C  --  --  --   1
+ --  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  TC  --   0
+  0   0   0   0   0   1 Total
+
+ --  --  --  8H  --   0
+ 3S  3C  --  --  --   1
+ 4C  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  TC  --   0
+  0   0   0   0   0   1 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  --  --  --   1
+ 4C  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  --  TC  --   0
+  0   0   0   0   0   1 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  --  --  --   1
+ 4C  --  --  --  --   0
+ --  --  --  --  --   0
+ --  --  QH  TC  --   0
+  0   0   0   0   0   1 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  --  --  --   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ --  --  QH  TC  --   0
+  0   0   0   0   0   1 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  QC  --  --   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ --  --  QH  TC  --   0
+  0   0   1   0   0   2 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  QC  --  --   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ --  --  QH  TC  KD   0
+  0   0   1   0   0   2 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  QC  TD  --   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ --  --  QH  TC  KD   0
+  0   0   1   1   0   3 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  QC  TD  --   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ AD  --  QH  TC  KD   0
+  0   0   1   1   0   3 Total
+
+ --  --  6S  8H  --   0
+ 3S  3C  QC  TD  KH   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ AD  --  QH  TC  KD   0
+  0   0   1   1   1   4 Total
+
+ --  7C  6S  8H  --   0
+ 3S  3C  QC  TD  KH   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ AD  --  QH  TC  KD   0
+  0   0   1   1   1   4 Total
+
+ --  7C  6S  8H  9D   0
+ 3S  3C  QC  TD  KH   1
+ 4C  --  --  --  --   0
+ 2H  --  --  --  --   0
+ AD  --  QH  TC  KD   0
+  0   0   1   1   1   4 Total
+
+ --  7C  6S  8H  9D   0
+ 3S  3C  QC  TD  KH   1
+ 4C  --  --  --  --   0
+ 2H  AH  --  --  --   0
+ AD  --  QH  TC  KD   0
+  0   0   1   1   1   4 Total
+
+ --  7C  6S  8H  9D   0
+ 3S  3C  QC  TD  KH   1
+ 4C  --  --  --  --   0
+ 2H  AH  --  --  --   0
+ AD  JS  QH  TC  KD  12
+  0   0   1   1   1  16 Total
+
+ --  7C  6S  8H  9D   0
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  --  --  --   1
+ 2H  AH  --  --  --   0
+ AD  JS  QH  TC  KD  12
+  0   0   1   1   1  17 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  --  --  --   1
+ 2H  AH  --  --  --   0
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  41 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  3D  --  --   1
+ 2H  AH  --  --  --   0
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  41 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  3D  --  --   1
+ 2H  AH  --  --  AS   1
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  42 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  3D  --  --   1
+ 2H  AH  --  5C  AS   1
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  42 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  3D  JH  --   1
+ 2H  AH  --  5C  AS   1
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  42 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  3D  JH  4H   6
+ 2H  AH  --  5C  AS   1
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  47 Total
+
+ 5H  7C  6S  8H  9D  12
+ 3S  3C  QC  TD  KH   1
+ 4C  4S  3D  JH  4H   6
+ 2H  AH  AC  5C  AS   6
+ AD  JS  QH  TC  KD  12
+ 12   0   1   1   1  52 Total
+
